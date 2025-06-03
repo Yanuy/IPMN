@@ -326,12 +326,6 @@ fraud_system.train_models(task_mode='multiclass')
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Scikit-learn**: Machine learning library
-- **XGBoost/LightGBM**: Gradient boosting frameworks
-- **Pandas**: Data manipulation and analysis
-- **Matplotlib/Seaborn**: Data visualization
 
 ## 📞 Support
 
@@ -348,5 +342,3 @@ system = FraudDetectionSystem()
 system.run_full_pipeline("your_data.csv", sample_ratio=0.1)
 print("Fraud detection system ready!")
 ```
-
-**Happy Fraud Hunting! 🕵️‍♂️💰**
