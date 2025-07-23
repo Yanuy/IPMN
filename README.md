@@ -1,5 +1,6 @@
-# Financial Fraud Detection System
+# AML Feature Libary
 
+https://yanuy.github.io/IPMN1/
 A comprehensive machine learning system for detecting financial fraud and money laundering in transaction data. This system implements advanced feature engineering techniques, graph-based analysis, and multiple classification algorithms to identify fraudulent patterns in financial transactions.
 
 ## 🚀 Features
